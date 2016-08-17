@@ -7,7 +7,7 @@ Supervised by: [https://sites.google.com/site/jhasom/ *Dr. Somnath Jha*], Dept. 
 There were two parts to my thesis, submitted towards the completion of the requirements of the Master of Science degree. The copy of the thesis submitted to the IITK library is [ms-these-unedited.pdf here], and the updated and cleaned up version of the thesis with no redundancy is [ms-thesis.pdf here].
 
 === [mth598.pdf Part I: The Vinogradov Theorem] (July 2015---November 2015)
-I studied the [https://en.wikipedia.org/wiki/Vinogradov%27s_theorem Vinogradov theorem] on the representation of sufficiently large odd integers as the sum of three primes. The theorem is an asymptotic weakening of the Odd Goldbach Conjecture (which was recently settled completely by [https://en.wikipedia.org/wiki/Harald_Helfgott Harald Helfgott]. In the project, I considered a proof (originally due to Hardy and Littlewood) of the theorem under the assumption of the [https://en.wikipedia.org/wiki/Generalized_Riemann_hypothesis Generalized Riemann Hypothesis (GRH)]. 
+I studied the [https://en.wikipedia.org/wiki/Vinogradov%27s_theorem Vinogradov theorem] on the representation of sufficiently large odd integers as the sum of three primes. The theorem is an asymptotic weakening of the Odd Goldbach Conjecture (which was recently settled completely by [https://en.wikipedia.org/wiki/Harald_Helfgott Harald Helfgott]). In the project, I considered a proof (originally due to Hardy and Littlewood) of the theorem under the assumption of the [https://en.wikipedia.org/wiki/Generalized_Riemann_hypothesis Generalized Riemann Hypothesis (GRH)]. 
 
 === [mth599.pdf Part II: Prime Numbers and Arithmetic Progressions] (January 2016---April 2016)
 This project was essentially to dismantle the classical proof of the [http://bit.ly/2b1QCZu prime number theorem in arithmetic progressions], which simultaneously generalizes the [https://en.wikipedia.org/wiki/Prime_number_theorem prime number theorem] as well as [http://bit.ly/2aZXQtF Dirichlet's theorem], into a pieces which were directly adapted from the individual proofs of these results. Essentially, the [http://mathoverflow.net/questions/25794/shortest-most-elegant-proof-for-l1-chi-neq-0 non-vanishing of $L(1,\chi)$] is precisely the ingredient that needs to be added to the proof of the PNT to achieve the theorem, just like Dirichlet's proof is precisely [http://bit.ly/2bf4n6F Euler's argument] for [http://bit.ly/2b0eDDd Euclid's theorem] with the same ingredient added. 
@@ -29,10 +29,14 @@ Supervised by: [http://www.cse.iitk.ac.in/users/nitin/ *Dr. Nitin Saxena*], Dept
 
 I did this project jointly with Mr. Vijay Keswani, an undergraduate student of the Dept. of CSE, IIT Kanpur. We considered the state--of--the--art with respect to the status of the [https://en.wikipedia.org/wiki/Kakeya_set Kakeya problem] in various geometries with different underlying fields, particularly the [https://en.wikipedia.org/wiki/Finite_field finite field] and the [https://en.wikipedia.org/wiki/Real_number real] settings. We had a small reading group going including Prof. Shobha Madan (MTH), Dr. Nitin Saxena (CSE), Dr. Rajat Mittal (CSE), Vijay and me, in which Vijay and I would give weekly talks on topics in Additive Combinatorics and Indicidence Geometry. Talks I gave included an exposition of [https://arxiv.org/abs/0803.2336 Zeev Dvir's solution] for the problem in the finite field setting using the [https://www.dpmms.cam.ac.uk/~dce27/polynomialmethod1.pdf polynomial method] along with some discussion on the best known bounds in the real setting and their proofs.
 
+The final project presentation can be seen [mth393ppt.pdf here].
+
 === [mth394.pdf Additive Combinatorics and Szémeredi’s Regularity Lemma] (January 2015---April 2015)
 Supervised by: [http://www.cse.iitk.ac.in/users/rmittal/ *Dr. Rajat Mittal*], Dept. of Computer Science and Engineering
 
 [https://en.wikipedia.org/wiki/Szemer%C3%A9di_regularity_lemma Szémeredi’s regularity lemma] is a fundamental tool in graph theory and additive combinatorics which lets us extract "randomness" results from sufficiently large graphs.  This project was also done jointly with Vijay, and we considered a proof of the lemma along with various applications.
+
+The final project presentation can be seen [mth394ppt.pdf here]. This includes certain applications not considered in the project report.
 
 == Other Projects
 
