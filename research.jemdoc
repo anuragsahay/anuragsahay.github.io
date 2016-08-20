@@ -1,0 +1,10 @@
+# jemdoc: menu{MENU}{research.html}, showsource
+= Research Interests
+
+My [project.html projects] give a fairly good idea of what kind of mathematics interests me.
+
+Broadly speaking, I'm interested in all forms of [https://en.wikipedia.org/wiki/Number_theory Number Theory]. The reason for this is not too difficult to understand when you look at the historical underpinnings of the subject; almost all the greats have worked in some form in number theory, and the part that appeals to me the most is the sheer background you need for doing number theory. Vast swathes of the field require spending a long time understanding fields that originally seem unrelated, such as analysis, algebra and geometry (although, in modern times it's so well-known that number theory is ripe for applications of other fields that I'm not sure how unexpected people find it. I certainly was very surprised the first time I learnt that the distribution of prime numbers depended on the zeroes of the $\zeta$-function.
+
+However, number theory is too wide a subject to qualify as a research interest. Within number theory, I lean towards the [https://en.wikipedia.org/wiki/Analytic_number_theory analytic], combinatorial and elementary aspects of number theory; I barely know anything about the algebraic aspects beyond some basic [https://en.wikipedia.org/wiki/Algebraic_number_theory algebraic number theory].
+
+In particular, I am interested in [https://en.wikipedia.org/wiki/Additive_number_theory additive number theory], [https://en.wikipedia.org/wiki/Multiplicative_number_theory multiplicative number theory] (including the theory of the [https://en.wikipedia.org/wiki/Riemann_zeta_function Riemann $\zeta$ function]), [https://en.wikipedia.org/wiki/Sieve_theory sieve theory] and [https://en.wikipedia.org/wiki/Additive_combinatorics additive combinatorics]. I am also interested tangentially in [https://en.wikipedia.org/wiki/Computational_number_theory computational] aspects of number theory, and the applications of additive combinatorics and number theory to [https://en.wikipedia.org/wiki/Theoretical_computer_science theoretical computer science].
