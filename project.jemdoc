@@ -4,7 +4,7 @@
 == Master's Thesis
 Supervised by: [https://sites.google.com/site/jhasom/ *Dr. Somnath Jha*], Dept. of Mathematics and Statistics
 
-There were two parts to my thesis, submitted towards the completion of the requirements of the Master of Science degree. The copy of the thesis submitted to the IITK library is [ms-thesis-unedited.pdf here], and the updated and cleaned up version of the thesis with no redundancy is [ms-thesis.pdf here].
+There were two parts to my thesis, submitted towards the completion of the requirements of the Master of Science degree. The copy of the thesis submitted to the IITK library is [ms-thesis-unedited.pdf here].
 
 === [mth598.pdf Part I: The Vinogradov Theorem] (July 2015---November 2015)
 I studied the [https://en.wikipedia.org/wiki/Vinogradov%27s_theorem Vinogradov theorem] on the representation of sufficiently large odd integers as the sum of three primes. The theorem is an asymptotic weakening of the Odd Goldbach Conjecture (which was recently settled completely by [https://en.wikipedia.org/wiki/Harald_Helfgott Harald Helfgott]). In the project, I considered a proof (originally due to Hardy and Littlewood) of the theorem under the assumption of the [https://en.wikipedia.org/wiki/Generalized_Riemann_hypothesis Generalized Riemann Hypothesis (GRH)]. 
