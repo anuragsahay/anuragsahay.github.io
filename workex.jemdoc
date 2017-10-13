@@ -8,7 +8,7 @@
 
 *Associate*, September 2016---September 2017
 
-I was an Associate at the Gurgaon office of BCG India for one year; during this time, I worked on a few government case, one internal case, and a few investments.
+I was an Associate at the Gurgaon office of BCG India for one year. During this time, I worked on a few government cases, one internal case, and a few investments.
 ~~~
 
 == [https://www.db.com/india/index.html Deutsche Bank (DB Center)]
@@ -18,8 +18,9 @@ I was an Associate at the Gurgaon office of BCG India for one year; during this 
 
 *Summer Analyst*, May 2015---July 2015
 
-I was a summer intern at the DB Centre office in Mumbai, and worked in the regulatory impact team. I designed an intra-net based tool using [https://www.djangoproject.com/ Django] (a Python-based web-development framework) which calculates the exposure faced by the bank against listed derivatives from a client portfolio uploaded as a .csv file. The exposure is calculated using the [http://www.investopedia.com/terms/c/currentexposuremethod.asp Current Exposure Method] under the ambit of the [https://en.wikipedia.org/wiki/European_Union_law European Union implementation] of the [https://en.wikipedia.org/wiki/Basel_Accords Basel Accords], specifically Basel III. The tool also calculated the RWA (risk-weighted assets) held by the bank against the portfolio, and the corresponding [https://en.wikipedia.org/wiki/Tier_1_capital Tier I regulatory capital] to be held by the bank, and was meant to be used by Senior Management to make client pricing decisions to adequately compensate DB for the capital held aside. 
+I was a summer intern at the DB Centre office in Mumbai, and worked in the regulatory impact team. I designed an intra-net based tool using [https://www.djangoproject.com/ Django] (a Python-based web-development framework) which calculates the exposure faced by the bank against listed derivatives from a client portfolio. The exposure is calculated using the [http://www.investopedia.com/terms/c/currentexposuremethod.asp Current Exposure Method] under the ambit of the [https://en.wikipedia.org/wiki/European_Union_law European Union implementation] of the [https://en.wikipedia.org/wiki/Basel_Accords Basel Accords]. The tool also calculated the risk-weighted assets held by the bank against the portfolio, and the corresponding [https://en.wikipedia.org/wiki/Tier_1_capital Tier I regulatory capital] to be held, to be used by Senior Management to make client pricing decisions to adequately compensate DB for the capital held aside. 
 
-I got a full-time offer for my work here, but I ended up not joining.
+I got a full-time offer for my work here, but ended up not joining.
 
 ~~~
+
