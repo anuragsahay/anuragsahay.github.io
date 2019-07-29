@@ -1,0 +1,32 @@
+# jemdoc: menu{MENU}{contact.html}, showsource
+= Contact
+
+Contact is a word association game that requires no resources (other than a group of >= 3 people) to play.
+
+I was first introduced to Contact at IIT Kanpur, where a bunch of Assistant Coordinators of the [https://iitk.ac.in/counsel Counselling Service] from the 2013-14 Academic Year taught me the game. The game is fairly common, and is now played in a lot of STEM adjacent communities in India (e.g., IITs, Olympiad camps, etc).
+
+The version of the game I describe below is how the game is played in IIT Kanpur (or, at least, in that section of the IIT Kanpur community that I played with).
+
+The rules are as follows:
+
+- The game is played between one defender and at least two attackers (there is, in theory, no limit to the number of attackers).
+- The defender chooses a word from the English dictionary of choice and she reveals the first letter of her word. For the sake of an example, suppose she chose the word *incontinence* and reveals the letter *I*.
+- The attackers then try to /indirectly/ guess the defender's word. To do this, instead of outright saying what they think the defenders word is, they (acting as individuals) will give a clue (ideally obscure enough that the defender doesn't understand, but obvious enough that some of the other attackers do) for the word they are think. Working with the above example, if an attacker thinks the word is *inter*, they might say "bury".
+- Once a clue has been announced, the remaining attackers will attempt to figure out what their compatriot is cluing. If they do figure it out, they will shout out "Contact!". 
+- Once contact is obtained, the defender will now have to "break" contact, by herself figuring out what the contacted word is. If she figures it out, she will say that is not their word (so, for our example, she will say "it's not inter").
+- After a while, if the defender is unable to break contact, and thinks it is unlikely that she will be able to soon, she will give up. In that case, all contacting attackers (including the clue-giver) will do a countdown (3, 2, 1) and then simultaneously shout out the word they thought the clue referred to. If all contacting attackers said the same word, the defender will revel her next letter. If not, play continues.
+- Once more letters are revealed, all words being clued have to begin with the same letters as those revealed.
+- The game ends with the attackers victorious when either the defender is forced to reveal all their letters or when their word has been guessed. The game ends with the defender victorious when the attackers give up.
+
+Some clarifications:
+- Defenders are allowed to change their word if an attacker clues it early in the game. In fact, many defenders do not think of words until they've revealed at least 3-4 letters.
+- The defender's word has to be a dictionary word. However, the words that the attackers make contact on do not have to be.
+- There has to be a semantic connection between the clue and the word.
+- The defender does not have to wait for contact to occur before breaking a clue.
+- If the defender makes a guess as to what the attackers are contacting on, it counts as a valid break of the clue as long as their answer fits, even if it was not the word that the attackers were going for. In that case, the attackers can modify their clue so that the defender's guess no longer fits, while their contacted word still does.
+- Barring dictionary words, attackers are not allowed to use any domain-knowledge that the defender lacks. This is a special case of the golden rule (see below). So, for example, if I'm the defender, sports clues are not allowed, unless they're about really, really famous people like Sachin Tendulkar or David Beckham.
+
+The golden rule of contact is "Don't be a Dick". What this means is, at any point, don't do things which make the game less fun for other people. If you're the defender, don't take too long before you give up breaking a contact you cannot do. If you're the attacker, don't use domain-specific knowledge or in-jokes that the attacker does not know, or has no way of knowing. If you're the defender breaking contact, don't disingenously argue that your guess fits their clue even though you know it doesn't. In general, it's hard to go wrong with the application of this rule.
+
+
+There are many variants of contact in the world. Perhaps the most drastic variant is one that is played in IIT Madras, and in some American colleges - in this variant, attackers start counting down from 10 as soon as they have contact, instead of waiting for the defender to give up. That variant of contact is a speed game, and I'm not a big fan, but it is quite common.
