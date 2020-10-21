@@ -1,8 +1,12 @@
 # jemdoc: menu{MENU}{research.html}, showsource
 = Research Interests
 
-My [project.html projects] give a fairly good idea of what kind of mathematics interests me.
+My [https://web.math.rochester.edu/people/grads/asahay/project.html undergraduate projects] and [https://web.math.rochester.edu/people/grads/asahay/preprints.html preprints] give a fairly good idea of what kind of mathematics interests me.
 
-Broadly speaking, I an interested in [https://en.wikipedia.org/wiki/Number_theory Number Theory]. Within number theory, I lean towards the [https://en.wikipedia.org/wiki/Analytic_number_theory analytic], combinatorial and elementary aspects of number theory.
+Broadly speaking, I am interested in number theory and combinatorics. More specifically, I enjoy problems amenable to analytic techniques.
 
-I also have a tangential interest in Theoretical Computer Science, particularly Computational Complexity.
+Within number theory, I lean towards the analytic, combinatorial and elementary aspects of number theory.
+
+Within combinatorics, I have recently gotten interested in the application of the framework of algebraic ideas known as the polynomial method onto problems in discrete geometry.
+
+I also have a tangential interest in theoretical computer science, particularly computational complexity.
